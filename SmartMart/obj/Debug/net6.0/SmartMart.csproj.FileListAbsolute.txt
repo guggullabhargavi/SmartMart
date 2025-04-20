@@ -1,0 +1,113 @@
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\bin\Debug\net6.0\SmartMart.staticwebassets.runtime.json
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\bin\Debug\net6.0\SmartMart.staticwebassets.endpoints.json
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\bin\Debug\net6.0\SmartMart.exe
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\bin\Debug\net6.0\SmartMart.deps.json
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\bin\Debug\net6.0\SmartMart.runtimeconfig.json
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\bin\Debug\net6.0\SmartMart.dll
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\bin\Debug\net6.0\SmartMart.pdb
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\SmartMart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\SmartMart.AssemblyInfoInputs.cache
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\SmartMart.AssemblyInfo.cs
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\SmartMart.csproj.CoreCompileInputs.cache
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\SmartMart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\scopedcss\bundle\SmartMart.styles.css
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.SmartMart.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.SmartMart.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.build.SmartMart.props
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SmartMart.props
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SmartMart.props
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\SmartMart.dll
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\refint\SmartMart.dll
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\SmartMart.pdb
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\SmartMart.genruntimeconfig.cache
+C:\Users\guggu\Downloads\smartmart_vs2022_all_pages_new_bg\smartmart_custom_bg_project\smartmart_vs2022\SmartMart\obj\Debug\net6.0\ref\SmartMart.dll
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\bin\Debug\net6.0\SmartMart.staticwebassets.endpoints.json
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\bin\Debug\net6.0\SmartMart.staticwebassets.runtime.json
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\bin\Debug\net6.0\SmartMart.exe
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\bin\Debug\net6.0\SmartMart.deps.json
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\bin\Debug\net6.0\SmartMart.runtimeconfig.json
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\bin\Debug\net6.0\SmartMart.dll
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\bin\Debug\net6.0\SmartMart.pdb
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\SmartMart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\SmartMart.AssemblyInfoInputs.cache
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\SmartMart.AssemblyInfo.cs
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\SmartMart.csproj.CoreCompileInputs.cache
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\SmartMart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\scopedcss\bundle\SmartMart.styles.css
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.SmartMart.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.SmartMart.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.build.SmartMart.props
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SmartMart.props
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SmartMart.props
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\SmartMart.dll
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\refint\SmartMart.dll
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\SmartMart.pdb
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\SmartMart.genruntimeconfig.cache
+C:\Users\guggu\Downloads\smartmart_Newversion\SmartMart\obj\Debug\net6.0\ref\SmartMart.dll
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\bin\Debug\net6.0\SmartMart.staticwebassets.endpoints.json
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\bin\Debug\net6.0\SmartMart.staticwebassets.runtime.json
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\bin\Debug\net6.0\SmartMart.exe
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\bin\Debug\net6.0\SmartMart.deps.json
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\bin\Debug\net6.0\SmartMart.runtimeconfig.json
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\bin\Debug\net6.0\SmartMart.dll
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\bin\Debug\net6.0\SmartMart.pdb
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\SmartMart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\SmartMart.AssemblyInfoInputs.cache
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\SmartMart.AssemblyInfo.cs
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\SmartMart.csproj.CoreCompileInputs.cache
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\SmartMart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\scopedcss\bundle\SmartMart.styles.css
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.SmartMart.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.SmartMart.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.build.SmartMart.props
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SmartMart.props
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SmartMart.props
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\SmartMart.dll
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\refint\SmartMart.dll
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\SmartMart.pdb
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\SmartMart.genruntimeconfig.cache
+C:\Users\guggu\Downloads\smartmar version1\SmartMart\obj\Debug\net6.0\ref\SmartMart.dll
+C:\Users\guggu\source\repos\SmartMart\SmartMart\bin\Debug\net6.0\SmartMart.staticwebassets.runtime.json
+C:\Users\guggu\source\repos\SmartMart\SmartMart\bin\Debug\net6.0\SmartMart.staticwebassets.endpoints.json
+C:\Users\guggu\source\repos\SmartMart\SmartMart\bin\Debug\net6.0\SmartMart.exe
+C:\Users\guggu\Source\Repos\SmartMart\SmartMart\bin\Debug\net6.0\SmartMart.deps.json
+C:\Users\guggu\Source\Repos\SmartMart\SmartMart\bin\Debug\net6.0\SmartMart.runtimeconfig.json
+C:\Users\guggu\source\repos\SmartMart\SmartMart\bin\Debug\net6.0\SmartMart.dll
+C:\Users\guggu\source\repos\SmartMart\SmartMart\bin\Debug\net6.0\SmartMart.pdb
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\SmartMart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\SmartMart.AssemblyInfoInputs.cache
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\SmartMart.AssemblyInfo.cs
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\SmartMart.csproj.CoreCompileInputs.cache
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\SmartMart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\SmartMart.sourcelink.json
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\scopedcss\bundle\SmartMart.styles.css
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.SmartMart.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.SmartMart.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.build.SmartMart.props
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SmartMart.props
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SmartMart.props
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\SmartMart.dll
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\refint\SmartMart.dll
+C:\Users\guggu\source\repos\SmartMart\SmartMart\obj\Debug\net6.0\SmartMart.pdb
+C:\Users\guggu\Source\Repos\SmartMart\SmartMart\obj\Debug\net6.0\SmartMart.genruntimeconfig.cache
+C:\Users\guggu\Source\Repos\SmartMart\SmartMart\obj\Debug\net6.0\ref\SmartMart.dll

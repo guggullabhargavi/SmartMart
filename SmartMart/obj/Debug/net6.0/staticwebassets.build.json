@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "52AQnjQxHxvI4cW3bMn7/8H5nTveIUWWx0rfMhX3vN8=",
+  "Source": "SmartMart",
+  "BasePath": "_content/SmartMart",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SmartMart\\wwwroot",
+      "Source": "SmartMart",
+      "ContentRoot": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\",
+      "BasePath": "_content/SmartMart",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\about.html",
+      "SourceId": "SmartMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\",
+      "BasePath": "_content/SmartMart",
+      "RelativePath": "about#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9urex4a831",
+      "Integrity": "cXUSMZdn2ywX9hzykV3Iz1TvfnhIm/WKDJpEu0hh3YY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\about.html"
+    },
+    {
+      "Identity": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\css\\style.css",
+      "SourceId": "SmartMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\",
+      "BasePath": "_content/SmartMart",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ytmble55za",
+      "Integrity": "VgVFDZFWOvJTSmyNfQE5ifErT1oDOBPeJj4yECHUaGo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "SmartMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\",
+      "BasePath": "_content/SmartMart",
+      "RelativePath": "css/StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p02jqgon5h",
+      "Integrity": "B5XTeg2/ZOqPiK6J0jkgOfYjll7iPRAM+WvRJu6gGFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
+    },
+    {
+      "Identity": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\data-visualization.html",
+      "SourceId": "SmartMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\",
+      "BasePath": "_content/SmartMart",
+      "RelativePath": "data-visualization#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "58bjilzuai",
+      "Integrity": "lTUXQS65FG80CcLnmT31Cf9cEvVwDUwUDdMCmWq6a0Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data-visualization.html"
+    },
+    {
+      "Identity": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\img\\background.jpg",
+      "SourceId": "SmartMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\",
+      "BasePath": "_content/SmartMart",
+      "RelativePath": "img/background#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lv8imywpd6",
+      "Integrity": "jySaUBjuihalF9eDfto2EpUi05xlJ6aRMplBER8s8ek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\background.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\img\\data-model.png",
+      "SourceId": "SmartMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\",
+      "BasePath": "_content/SmartMart",
+      "RelativePath": "img/data-model#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r553rqch1q",
+      "Integrity": "ISCVeNHmu6i1sIc6uGgPNnitcMxHO+pwetPEcxsk7AU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\data-model.png"
+    },
+    {
+      "Identity": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\index.html",
+      "SourceId": "SmartMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\",
+      "BasePath": "_content/SmartMart",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4n5e0taxb6",
+      "Integrity": "8HexREJcp376oh29VBL5qYfmDgNrq3MuucMKwxiW2+Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\js\\charts.js",
+      "SourceId": "SmartMart",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\",
+      "BasePath": "_content/SmartMart",
+      "RelativePath": "js/charts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7o0b3ehszz",
+      "Integrity": "2TxoUj+BoCXqxkDHsL8hqq6bEUakLLoui773KDhT7Q0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\charts.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "about.9urex4a831.html",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\about.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cXUSMZdn2ywX9hzykV3Iz1TvfnhIm/WKDJpEu0hh3YY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 22:51:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9urex4a831"
+        },
+        {
+          "Name": "label",
+          "Value": "about.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cXUSMZdn2ywX9hzykV3Iz1TvfnhIm/WKDJpEu0hh3YY="
+        }
+      ]
+    },
+    {
+      "Route": "about.html",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\about.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cXUSMZdn2ywX9hzykV3Iz1TvfnhIm/WKDJpEu0hh3YY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 22:51:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cXUSMZdn2ywX9hzykV3Iz1TvfnhIm/WKDJpEu0hh3YY="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VgVFDZFWOvJTSmyNfQE5ifErT1oDOBPeJj4yECHUaGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 22:39:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VgVFDZFWOvJTSmyNfQE5ifErT1oDOBPeJj4yECHUaGo="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.ytmble55za.css",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VgVFDZFWOvJTSmyNfQE5ifErT1oDOBPeJj4yECHUaGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 22:39:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ytmble55za"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VgVFDZFWOvJTSmyNfQE5ifErT1oDOBPeJj4yECHUaGo="
+        }
+      ]
+    },
+    {
+      "Route": "css/StyleSheet.css",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\css\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B5XTeg2/ZOqPiK6J0jkgOfYjll7iPRAM+WvRJu6gGFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 22:51:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B5XTeg2/ZOqPiK6J0jkgOfYjll7iPRAM+WvRJu6gGFY="
+        }
+      ]
+    },
+    {
+      "Route": "css/StyleSheet.p02jqgon5h.css",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\css\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B5XTeg2/ZOqPiK6J0jkgOfYjll7iPRAM+WvRJu6gGFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 22:51:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p02jqgon5h"
+        },
+        {
+          "Name": "label",
+          "Value": "css/StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B5XTeg2/ZOqPiK6J0jkgOfYjll7iPRAM+WvRJu6gGFY="
+        }
+      ]
+    },
+    {
+      "Route": "data-visualization.58bjilzuai.html",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\data-visualization.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lTUXQS65FG80CcLnmT31Cf9cEvVwDUwUDdMCmWq6a0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 22:51:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "58bjilzuai"
+        },
+        {
+          "Name": "label",
+          "Value": "data-visualization.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lTUXQS65FG80CcLnmT31Cf9cEvVwDUwUDdMCmWq6a0Y="
+        }
+      ]
+    },
+    {
+      "Route": "data-visualization.html",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\data-visualization.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lTUXQS65FG80CcLnmT31Cf9cEvVwDUwUDdMCmWq6a0Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 22:51:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lTUXQS65FG80CcLnmT31Cf9cEvVwDUwUDdMCmWq6a0Y="
+        }
+      ]
+    },
+    {
+      "Route": "img/background.jpg",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\img\\background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2359672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jySaUBjuihalF9eDfto2EpUi05xlJ6aRMplBER8s8ek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 17:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jySaUBjuihalF9eDfto2EpUi05xlJ6aRMplBER8s8ek="
+        }
+      ]
+    },
+    {
+      "Route": "img/background.lv8imywpd6.jpg",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\img\\background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2359672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jySaUBjuihalF9eDfto2EpUi05xlJ6aRMplBER8s8ek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 17:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lv8imywpd6"
+        },
+        {
+          "Name": "label",
+          "Value": "img/background.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jySaUBjuihalF9eDfto2EpUi05xlJ6aRMplBER8s8ek="
+        }
+      ]
+    },
+    {
+      "Route": "img/data-model.png",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\img\\data-model.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1091895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ISCVeNHmu6i1sIc6uGgPNnitcMxHO+pwetPEcxsk7AU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 17:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ISCVeNHmu6i1sIc6uGgPNnitcMxHO+pwetPEcxsk7AU="
+        }
+      ]
+    },
+    {
+      "Route": "img/data-model.r553rqch1q.png",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\img\\data-model.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1091895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ISCVeNHmu6i1sIc6uGgPNnitcMxHO+pwetPEcxsk7AU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 17:20:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r553rqch1q"
+        },
+        {
+          "Name": "label",
+          "Value": "img/data-model.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ISCVeNHmu6i1sIc6uGgPNnitcMxHO+pwetPEcxsk7AU="
+        }
+      ]
+    },
+    {
+      "Route": "index.4n5e0taxb6.html",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8HexREJcp376oh29VBL5qYfmDgNrq3MuucMKwxiW2+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 22:51:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4n5e0taxb6"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8HexREJcp376oh29VBL5qYfmDgNrq3MuucMKwxiW2+Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8HexREJcp376oh29VBL5qYfmDgNrq3MuucMKwxiW2+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 22:51:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8HexREJcp376oh29VBL5qYfmDgNrq3MuucMKwxiW2+Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/charts.7o0b3ehszz.js",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\js\\charts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2860"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2TxoUj+BoCXqxkDHsL8hqq6bEUakLLoui773KDhT7Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 22:51:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7o0b3ehszz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/charts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2TxoUj+BoCXqxkDHsL8hqq6bEUakLLoui773KDhT7Q0="
+        }
+      ]
+    },
+    {
+      "Route": "js/charts.js",
+      "AssetFile": "C:\\Users\\guggu\\source\\repos\\SmartMart\\SmartMart\\wwwroot\\js\\charts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2860"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2TxoUj+BoCXqxkDHsL8hqq6bEUakLLoui773KDhT7Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 22:51:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2TxoUj+BoCXqxkDHsL8hqq6bEUakLLoui773KDhT7Q0="
+        }
+      ]
+    }
+  ]
+}

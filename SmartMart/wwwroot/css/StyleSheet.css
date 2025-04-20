@@ -1,0 +1,199 @@
+﻿/* Set up the background and full screen */
+body.index-page {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url('../img/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    min-height: 100vh;
+    text-align: center;
+    backdrop-filter: brightness(80%);
+    display: block; /* ✅ prevent vertical centering */
+}
+
+
+/* Header block */
+header {
+    width: 100%;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 20px 10px;
+}
+
+/* Title styling */
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+}
+
+li {
+    font-size: 25px;
+
+}
+
+/* Navigation bar styling */
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 25px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+    nav a {
+        color: #fff;
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 25px;
+        padding: 5px 10px;
+        transition: all 0.3s ease;
+    }
+
+        nav a:hover {
+            text-decoration: underline;
+            color: #00f7ff;
+        }
+
+/* Section spacing */
+section {
+    margin-top: 30px;
+    max-width: 900px;
+}
+
+/* Subheadings */
+h2 {
+    font-size: 32px;
+    margin-top: 40px;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+}
+
+/* Paragraph */
+p {
+    font-size: 25px;
+    max-width: 700px;
+    margin: 20px auto;
+    line-height: 1.8; /* Smooth vertical spacing */
+    text-align: justify; /* Even spacing across lines */
+    text-justify: inter-word;
+}
+
+/* CRUD buttons */
+/*.crud-buttons {
+    margin-top: 50px;
+}
+
+    .crud-buttons a {
+        background-color: rgba(255, 255, 255, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.4);
+        border-radius: 6px;
+        padding: 10px 20px;
+        margin: 10px 15px;
+        color: #fff;
+        text-decoration: none;
+        font-size: 25px;
+        transition: background-color 0.3s ease;
+        position: fixed;
+        bottom: 30px;
+        left: 0;
+        right: 0;
+        text-align: center;
+        z-index: 10;
+    }
+
+        .crud-buttons a:hover {
+            background-color: rgba(255, 255, 255, 0.3);
+        }
+*/
+
+
+
+.crud-buttons {
+    position: fixed;
+    bottom: 180px;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    z-index: 1000;
+    padding: 10px 0;
+    box-sizing: border-box;
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+    .crud-buttons a {
+        display: inline-block;
+        background-color: rgba(255, 255, 255, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.4);
+        border-radius: 6px;
+        font-size: 25px;
+        padding: 10px 20px;
+        color: #fff;
+        text-decoration: none;
+        font-weight: 500;
+        transition: background-color 0.3s ease;
+    }
+
+        .crud-buttons a:hover {
+            background-color: rgba(255, 255, 255, 0.3);
+        }
+
+
+
+
+
+
+.content-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 60px 30px 30px; /* Reduced left/right padding */
+    gap: 500px;
+    max-width: none; /* remove centering constraint */
+    margin-left: 200px; /* small left spacing */
+    margin-right: 30px;
+}
+/* Columns */
+.column {
+    flex: 1 1 45%;
+    max-width: 500px;
+    padding: 5px;
+    border-radius: 1px;
+    color: #fff;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+    text-align: left;
+}
+
+
+    .column h2 {
+        text-align: left;
+        margin-bottom: 20px;
+    }
+
+    .column ol {
+        padding-left: 20px;
+        line-height: 1.8;
+    }
+
+.left-align {
+    align-self: flex-start;
+    max-width: 700px;
+    text-align: left;
+    margin-left: 0; /* Optional: ensures it hugs the left inside the wrapper */
+}
+
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* ✅ prevents horizontal scroll */
+}
