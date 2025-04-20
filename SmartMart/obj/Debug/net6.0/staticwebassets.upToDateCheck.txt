@@ -1,0 +1,8 @@
+wwwroot\about.html
+wwwroot\css\style.css
+wwwroot\css\StyleSheet.css
+wwwroot\data-visualization.html
+wwwroot\img\background.jpg
+wwwroot\img\data-model.png
+wwwroot\index.html
+wwwroot\js\charts.js
